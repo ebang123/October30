@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d3fa449e3cd2ba941a683ae47bfe8bfd
+timeCreated: 1540914210
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Angella Narrow
+  fontNames:
+  - Angella Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69f8579f821dd3a4caf7ab9ebd592c27, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ebe5af3b53faaaf468a3744c162e65a5
+timeCreated: 1540914211
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Angella Outline
+  fontNames:
+  - Angella Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d8961b92adff29a41ad173305aa58d5f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
